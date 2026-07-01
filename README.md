@@ -46,7 +46,6 @@ Development & Contribution
 - Open an issue or submit a PR with improvements, examples, or tests.
 
 License
-License
 - This project is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 Contact
